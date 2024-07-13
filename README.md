@@ -6,7 +6,6 @@ This project showcases a creative text animation effect using HTML and CSS. The 
 ## Demo
 See the animation in action [here](https://youtube.com/shorts/xLdMLScc4UY).
 
-![Tech Tech Toe Guys Animation](animation.gif)
 
 ## Features
 - **Dynamic Text Animation:** Utilizes CSS animations to morph and move text elements.
