@@ -20,3 +20,20 @@ To run the animation locally, follow these steps:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/tech-tech-toe-guys.git
+2. **Open index.html in your web browser.**
+Usage
+Click on the HTML file to view the animation. Feel free to customize the text and animation parameters in the CSS file (style.css) to suit your preferences.
+
+## File Structure
+css
+Copy code
+tech-tech-toe-guys/
+│
+├── index.html
+├── style.css
+└── animation.gif
+index.html: Contains the HTML structure of the animation.
+style.css: Includes the CSS for styling and animation effects.
+
+## Customization
+Experiment with different CSS animations, colors, and text content to create unique variations of the animation effect.
