@@ -26,12 +26,14 @@ Click on the HTML file to view the animation. Feel free to customize the text an
 
 ## File Structure
 css
-Copy code
-tech-tech-toe-guys/
+
+```
+Text-wave-design/
 │
 ├── index.html
 ├── style.css
-└── animation.gif
+```
+
 index.html: Contains the HTML structure of the animation.
 style.css: Includes the CSS for styling and animation effects.
 
